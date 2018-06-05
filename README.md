@@ -6,6 +6,6 @@ My mentee wanted to learn html, css and javascript. She set out to build a websi
 
 Her project consists of the following files: index.html - landing page of her website style.css - CSS stlye for all pages diy.html - How to video and generated drawings slimeblob.pde, slimedrawing.pde - processing.js files for the drawings, supplies.html - Resources and links for what you need to make slime.
 
-The website is hosted on her github account: https://github.com/pdpham/agame66.github.io
+The website is hosted on her github account:https://agame66.github.io/
 
 Other than the above files, nothing else is needed to view the website.
